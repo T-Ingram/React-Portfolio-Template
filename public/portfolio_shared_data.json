@@ -1,6 +1,6 @@
 {
     "basic_info": {
-      "name": "Trevor Ingram",
+      "name": "Trevor",
       "titles": [ "Software Developer" ],
       "social": [
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "Head Shot.jpg"
     },
     "skills": {
       "icons": [
