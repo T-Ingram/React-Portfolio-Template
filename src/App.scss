@@ -120,9 +120,10 @@ header h1 {
 }
 
 #about {
-	background: #fff;
-	background-image: ('public/images/Blockchain.jpg');
-	overflow: hidden;
+	content: url('/Blockchain.jpg');
+	display: block;
+	width: 100px;
+	height: 100px;
 }
 
 #about h1 {
