@@ -13,12 +13,12 @@
       {
         "title": "Memory Snap",
         "startDate": "2023",
-        "description": "The most expanded application I've had the opportunity to work with to this point. I've learned many technologies and was able to work in a small group to render this application. This is a memory game designed to test cognitive recollection",
+        "description": "The most expanded application I've had the opportunity to work with to this point. I've learned many technologies and was able to work in a small group to render this application. This is a memory game designed to test cognitive recollection.",
         "images": [
           "images/portfolio/animal-shelter/Memory Snap 1.png",
           "images/portfolio/animal-shelter/Lighthouse Report 2023-12-19 Memory Snap.png"
         ],
-        "url": "",
+        "url": "https://github.com/DevLearnCollective/MemorySnap",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -42,7 +42,7 @@
           "images/portfolio/photography/Gallery of Horns 1.png",
           "images/portfolio/photography/Gallery of Horns 2.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/T-Ingram/Gallery-of-Horns",
         "technologies": [
           {
             "class": "devicon-react-original",
