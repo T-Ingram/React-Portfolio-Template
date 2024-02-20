@@ -15,8 +15,8 @@
         "startDate": "2023",
         "description": "The most expanded application I've had the opportunity to work with to this point. I've learned many technologies and was able to work in a small group to render this application. This is a memory game designed to test cognitive recollection",
         "images": [
-          "public/images/portfolio/animal-shelter/Memory Snap 1.png",
-          "public/images/portfolio/animal-shelter/Lighthouse Report 2023-12-19 Memory Snap.png"
+          "images/portfolio/animal-shelter/Memory Snap 1.png",
+          "images/portfolio/animal-shelter/Lighthouse Report 2023-12-19 Memory Snap.png"
         ],
         "url": "",
         "technologies": [
@@ -39,8 +39,8 @@
         "startDate": "2023",
         "description": "I was responsible for creating an application that is able to sort through images by the number of horns each image has, as well as displaying how many people liked each image.",
         "images": [
-          "public/images/portfolio/photography/Gallery of Horns 1.png",
-          "public/images/portfolio/photography/Gallery of Horns 2.png"
+          "images/portfolio/photography/Gallery of Horns 1.png",
+          "images/portfolio/photography/Gallery of Horns 2.png"
         ],
         "url": "https://github.com",
         "technologies": [
