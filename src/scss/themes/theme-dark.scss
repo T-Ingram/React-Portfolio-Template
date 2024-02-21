@@ -40,7 +40,10 @@ body[data-theme="dark"] {
    }
 
    #about {
-      background-color: #7f7f7f;
+      // background-color: #7f7f7f;
+      background-image: url('../../../public/images/Blockchain.jpg');
+      background-size: cover;
+      overflow: hidden;
       h1 span {
          color: white;
       }
